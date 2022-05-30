@@ -1,5 +1,6 @@
 # SEOLYZER
 Web based href manipulation algorithm to improve seo.
+Python 3.9 
 
 # USED LIBS:
 Selenium, webdriver, datetime, by
